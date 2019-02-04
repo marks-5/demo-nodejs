@@ -1,0 +1,12 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.1",
+  "main": "server.js",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "express-bunyan-logger": "*",
+    "express-prom-bundle": "*",
+    "prom-client": "*"
+  }
+}
